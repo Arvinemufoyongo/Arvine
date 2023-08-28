@@ -1,2 +1,6 @@
-README.md This file is mandatory in projects
-# zero_day
+#At the end of this project, you are expected to be able to explain to anyone,
+*What is a virtual machine
+*What is Vagrant
+*Who wrote Vagrant
+*How to use VMs with Vagrant
+
